@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactjs-todo-list/static/css/main.355df139.css",
+    "main.js": "/reactjs-todo-list/static/js/main.04d615b1.js",
+    "static/media/bg_2.png": "/reactjs-todo-list/static/media/bg_2.d0ddbb8a3a0105111212.png",
+    "static/media/bg_1.png": "/reactjs-todo-list/static/media/bg_1.3e30e5425cd9902f4279.png",
+    "static/media/bg_0.png": "/reactjs-todo-list/static/media/bg_0.f84df85cc14ae46e6857.png",
+    "static/media/bg_3.png": "/reactjs-todo-list/static/media/bg_3.145c199c274ab398bf02.png",
+    "static/media/bg_6.png": "/reactjs-todo-list/static/media/bg_6.b3612afa485a2edc1da0.png",
+    "static/media/bg_4.png": "/reactjs-todo-list/static/media/bg_4.6d2039b552931bfbf2d1.png",
+    "static/media/bg_5.png": "/reactjs-todo-list/static/media/bg_5.cfe83d3f60f9083573a9.png",
+    "index.html": "/reactjs-todo-list/index.html",
+    "main.355df139.css.map": "/reactjs-todo-list/static/css/main.355df139.css.map",
+    "main.04d615b1.js.map": "/reactjs-todo-list/static/js/main.04d615b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.355df139.css",
+    "static/js/main.04d615b1.js"
+  ]
+}
